@@ -1,0 +1,29 @@
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\bin\Debug\net10.0\BaseOps.Application.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\bin\Debug\net10.0\BaseOps.Application.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\bin\Debug\net10.0\BaseOps.Application.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\bin\Debug\net10.0\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\bin\Debug\net10.0\BaseOps.Domain.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps..B4E86924.Up2Date
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps.Application.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\refint\BaseOps.Application.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\BaseOps.Application.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\obj\Debug\net10.0\ref\BaseOps.Application.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\validation-build\BaseOps.Application.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\validation-build\BaseOps.Application.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\validation-build\BaseOps.Application.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\compile-check\api\BaseOps.Application.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\compile-check\api\BaseOps.Application.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\compile-check\api\BaseOps.Application.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\artifacts\test-output\Debug\net10.0\BaseOps.Application.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\artifacts\test-output\Debug\net10.0\BaseOps.Application.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\artifacts\test-output\Debug\net10.0\BaseOps.Application.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\artifacts\test-output\Debug\net10.0\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Application\artifacts\test-output\Debug\net10.0\BaseOps.Domain.pdb
+c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Application.deps.json
+c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Application.dll
+c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Application.pdb

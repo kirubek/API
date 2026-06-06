@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BaseOps.Domain/1.0.0": {
+        "runtime": {
+          "BaseOps.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseOps.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

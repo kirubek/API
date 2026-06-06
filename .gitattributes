@@ -1,0 +1,33 @@
+# Normalize all text files and preserve binary files
+* text=auto
+
+# Force Unix-style line endings for source and config files
+*.cs text eol=lf
+*.csproj text eol=lf
+*.sln text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.sql text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.config text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.7z binary
+*.dll binary
+*.exe binary
+*.pdb binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary

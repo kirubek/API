@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BaseOps.API/BaseOps.API.csproj" />
+  <Project Path="BaseOps.Application/BaseOps.Application.csproj" />
+  <Project Path="BaseOps.Domain/BaseOps.Domain.csproj" />
+  <Project Path="BaseOps.Infrastructure/BaseOps.Infrastructure.csproj" />
+  <Project Path="BaseOps.SecurityTests/BaseOps.SecurityTests.csproj" />
+  <Project Path="BaseOps.UnitTests/BaseOps.UnitTests.csproj" />
+</Solution>

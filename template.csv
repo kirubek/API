@@ -1,0 +1,4 @@
+EmployeeId,FullName,Email,Role,SectionCode,HangarCode,ShopCode,Password
+EMP001,John Doe,john.doe@example.com,Employee,ACM,B737-ACM,,ChangeMe@123
+EMP002,Jane Smith,jane.smith@example.com,TeamLeader,ACM,B737-ACM,,ChangeMe@123
+MGR010,Manager Name,manager@example.com,Manager,ASM,B777-ASM,,ChangeMe@123

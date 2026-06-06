@@ -1,0 +1,27 @@
+# Build outputs
+**/bin/
+**/obj/
+**/artifacts/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# OS files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,23 @@
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\bin\Debug\net10.0\BaseOps.Domain.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\bin\Debug\net10.0\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\bin\Debug\net10.0\BaseOps.Domain.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\BaseOps.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\BaseOps.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\BaseOps.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\BaseOps.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\refint\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\BaseOps.Domain.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\obj\Debug\net10.0\ref\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\validation-build\BaseOps.Domain.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\validation-build\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\validation-build\BaseOps.Domain.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\compile-check\api\BaseOps.Domain.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\compile-check\api\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\artifacts\compile-check\api\BaseOps.Domain.pdb
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\artifacts\test-output\Debug\net10.0\BaseOps.Domain.deps.json
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\artifacts\test-output\Debug\net10.0\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\BaseOps\BaseOps Backend\BaseOps.Domain\artifacts\test-output\Debug\net10.0\BaseOps.Domain.pdb
+c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Domain.deps.json
+c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Domain.dll
+c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Domain.pdb
