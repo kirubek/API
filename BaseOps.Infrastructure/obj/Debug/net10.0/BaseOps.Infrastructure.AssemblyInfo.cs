@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseOps.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf7b9981822278be606c3eb8ad891bc1b8c3cc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+769d4d61b3cf4a2328e34e17464389cad346c3a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseOps.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseOps.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
