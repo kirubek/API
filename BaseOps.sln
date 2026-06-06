@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseOps.API", "BaseOps.API\BaseOps.API.csproj", "{852E8B51-D8B1-4FC8-8CE5-590A4F60B3C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseOps.Application", "BaseOps.Application\BaseOps.Application.csproj", "{1ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseOps.Domain", "BaseOps.Domain\BaseOps.Domain.csproj", "{2ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseOps.Infrastructure", "BaseOps.Infrastructure\BaseOps.Infrastructure.csproj", "{3ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseOps.SecurityTests", "BaseOps.SecurityTests\BaseOps.SecurityTests.csproj", "{4ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseOps.UnitTests", "BaseOps.UnitTests\BaseOps.UnitTests.csproj", "{5ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852E8B51-D8B1-4FC8-8CE5-590A4F60B3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852E8B51-D8B1-4FC8-8CE5-590A4F60B3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852E8B51-D8B1-4FC8-8CE5-590A4F60B3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852E8B51-D8B1-4FC8-8CE5-590A4F60B3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABCDEF0-1234-4AAA-BBBB-CCCCDDDDEEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

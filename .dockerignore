@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/artifacts/
+**/out/
+.vs/
+.vscode/
+.git/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.tmp
+*.cache
