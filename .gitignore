@@ -21,6 +21,8 @@
 *.log
 *.tmp
 *.cache
+out/
+out_test/
 
 # OS files
 Thumbs.db

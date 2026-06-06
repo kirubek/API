@@ -113,3 +113,42 @@ c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Infrastructure
 c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Infrastructure.runtimeconfig.json
 c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Infrastructure.dll
 c:\Users\DELL\Desktop\BaseOps\artifacts\compile-check\api\BaseOps.Infrastructure.pdb
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-Black.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-Bold.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-Italic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-Light.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-Medium.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-Regular.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-Thin.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\LatoFont\OFL.txt
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Infrastructure.deps.json
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Infrastructure.runtimeconfig.json
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Infrastructure.dll
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Infrastructure.pdb
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Application.dll
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Domain.dll
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Domain.pdb
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\bin\Debug\net10.0\BaseOps.Application.pdb
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.sourcelink.json
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps..9EB0C87C.Up2Date
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.dll
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\refint\BaseOps.Infrastructure.dll
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.pdb
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\BaseOps.Infrastructure.genruntimeconfig.cache
+C:\Users\DELL\Desktop\smart asp\BaseOps Backend\BaseOps.Infrastructure\obj\Debug\net10.0\ref\BaseOps.Infrastructure.dll

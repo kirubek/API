@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EO1RwmAXYXs=",
+  "dgSpecHash": "lrihZ9oG77w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Infrastructure\\BaseOps.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Infrastructure\\BaseOps.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

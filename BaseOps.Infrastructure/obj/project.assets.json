@@ -5466,11 +5466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Infrastructure\\BaseOps.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Infrastructure\\BaseOps.Infrastructure.csproj",
       "projectName": "BaseOps.Infrastructure",
-      "projectPath": "c:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Infrastructure\\BaseOps.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Infrastructure\\BaseOps.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5487,11 +5487,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj"
+            "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj"
             },
-            "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj"
+            "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj"
             }
           }
         }

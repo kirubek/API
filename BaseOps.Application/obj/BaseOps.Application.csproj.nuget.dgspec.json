@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj": {
+    "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj",
         "projectName": "BaseOps.Application",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Application\\BaseOps.Application.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Application\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -28,8 +28,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj"
+              "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj"
               }
             }
           }
@@ -358,14 +358,14 @@
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj": {
+    "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj",
         "projectName": "BaseOps.Domain",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\BaseOps.Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\BaseOps\\BaseOps Backend\\BaseOps.Domain\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\smart asp\\BaseOps Backend\\BaseOps.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
