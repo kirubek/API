@@ -1,9 +1,9 @@
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 WORKDIR /src
 
-# Copy everything and restore using the solution file to ensure all projects are resolved.
+# Copy everything and restore only the API project.
 COPY . ./
-RUN dotnet restore BaseOps.sln
+RUN dotnet restore BaseOps.API/BaseOps.API.csproj
 
 # Publish the API project.
 RUN dotnet publish BaseOps.API/BaseOps.API.csproj -c Release -o /app/out --no-restore
